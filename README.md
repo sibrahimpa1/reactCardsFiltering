@@ -1,2 +1,2 @@
 # ecommerce
-Rect + Redux e-commerce web app
+Massive E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase
