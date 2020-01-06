@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactCardsFiltering/static/css/main.8a429df5.chunk.css",
-    "main.js": "/reactCardsFiltering/static/js/main.74cd13b0.chunk.js",
-    "main.js.map": "/reactCardsFiltering/static/js/main.74cd13b0.chunk.js.map",
+    "main.js": "/reactCardsFiltering/static/js/main.3dba51ac.chunk.js",
+    "main.js.map": "/reactCardsFiltering/static/js/main.3dba51ac.chunk.js.map",
     "runtime-main.js": "/reactCardsFiltering/static/js/runtime-main.eac6b70f.js",
     "runtime-main.js.map": "/reactCardsFiltering/static/js/runtime-main.eac6b70f.js.map",
     "static/js/2.e494a0c8.chunk.js": "/reactCardsFiltering/static/js/2.e494a0c8.chunk.js",
     "static/js/2.e494a0c8.chunk.js.map": "/reactCardsFiltering/static/js/2.e494a0c8.chunk.js.map",
     "index.html": "/reactCardsFiltering/index.html",
-    "precache-manifest.e68a3fbd02a5b7ba2fe4fd375c622e3e.js": "/reactCardsFiltering/precache-manifest.e68a3fbd02a5b7ba2fe4fd375c622e3e.js",
+    "precache-manifest.6c27dff1307f837486d2559c8c2385d4.js": "/reactCardsFiltering/precache-manifest.6c27dff1307f837486d2559c8c2385d4.js",
     "service-worker.js": "/reactCardsFiltering/service-worker.js",
     "static/css/main.8a429df5.chunk.css.map": "/reactCardsFiltering/static/css/main.8a429df5.chunk.css.map",
     "static/js/2.e494a0c8.chunk.js.LICENSE": "/reactCardsFiltering/static/js/2.e494a0c8.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eac6b70f.js",
     "static/js/2.e494a0c8.chunk.js",
     "static/css/main.8a429df5.chunk.css",
-    "static/js/main.74cd13b0.chunk.js"
+    "static/js/main.3dba51ac.chunk.js"
   ]
 }
