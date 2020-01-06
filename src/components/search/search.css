@@ -1,0 +1,14 @@
+.input-container{
+  margin: 30px auto;
+  width: 100%;
+  max-width: 500px;
+}
+.input-container input[type="search"]{
+  width: 100%;
+  outline: none;
+  -webkit-appearance: none;
+  padding: 10px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  border: 1px solid gray;
+}
